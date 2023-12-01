@@ -1,0 +1,17 @@
+.segment {
+  background-color:transparent;
+  height: 100%;
+  opacity: 1;
+  margin-left: 0;
+  position: absolute;
+  z-index: 1;
+}
+
+.segment-spacer {
+  background-color: rgba(43,51,63);
+  height: 100%;
+  width: 0.5vw;
+  opacity: 1;
+  margin: 0;
+  position: absolute;
+}
